@@ -1,2 +1,2 @@
 # HackerRank-30-Days-of-Code
-This Repository contains all Solution of HackerRank.
+This Repository contains all Solution of HackerRank...."Hi"

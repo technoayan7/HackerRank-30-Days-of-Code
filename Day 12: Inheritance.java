@@ -1,5 +1,5 @@
 
-
+//Inhce program
 class Student extends Person{
 	private int[] testScores;
 
